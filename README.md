@@ -7,11 +7,11 @@ This branch covers the releases for **Meeting SDK**
 - It does not support CUCM Calling or Webex Calling
 - More details can be found [here](https://developer.webex.com/docs/sdks/android)
 
-Memory comparison:
+Storage comparison:
 
 ||**3.7.0-Release** |**Meeting SDK** |
 | :- | - | - |
-|Memory snapshot |<img width="705" alt="Screenshot 2022-11-28 at 8 41 45 PM" src="https://user-images.githubusercontent.com/119413473/204521375-ca9b565c-22c0-4868-b023-306666a9b642.png">|<img width="708" alt="Screenshot 2022-11-28 at 8 36 34 PM" src="https://user-images.githubusercontent.com/119413473/204521557-79f32ebe-c886-40e7-a654-03f517527767.png">
+|Storage snapshot |<img width="705" alt="Screenshot 2022-11-28 at 8 41 45 PM" src="https://user-images.githubusercontent.com/119413473/204521375-ca9b565c-22c0-4868-b023-306666a9b642.png">|<img width="708" alt="Screenshot 2022-11-28 at 8 36 34 PM" src="https://user-images.githubusercontent.com/119413473/204521557-79f32ebe-c886-40e7-a654-03f517527767.png">
 |<p>Size on disk </p><p>(Universal) </p>|**214 MB** |**156 MB** |
 |<p>Raw </p><p>Size          </p><p>(Universal) </p>|**212.8 MB** |**155.3 MB** |
 
@@ -38,8 +38,8 @@ Memory comparison:
    ```
    implementation files('libs/meeting-sdk-alpha.aar')
    ```
-### Memory analysis for apk
-Below details can be used for reference (in the terms of memory), to see the impact of our new **Meeting SDK** on APP. 
+### Storage analysis for apk
+Below details can be used for reference (in the terms of storage), to see the impact of our new **Meeting SDK** on APP. 
 ||**Approx. Sizes (in MB)** |
 | :- | - |
 |APP bundle size (aab) |<img width="967" alt="Screenshot 2022-11-28 at 8 50 14 PM" src="https://user-images.githubusercontent.com/119413473/204522882-8586a662-b05c-41b6-b768-ad3ee623cbcd.png"><p>**158 MB** </p>|
