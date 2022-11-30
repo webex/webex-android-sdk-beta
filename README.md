@@ -1,4 +1,5 @@
 # Android | Mobile SDK - without Calling Feature 
+AAR dependency can be downloaded from "Release tags" in right pane OR from [here](https://github.com/webex/webex-android-sdk-beta/releases/tag/calling-features-OFF)
 ## AAR Details
 
 This documents covers the analysis of Mobile SDK (android) size, after DISABLING the calling features like : Broadworks calling, CUCM calling. A considerable amount of memory gain is there when calling features are disabled. 
