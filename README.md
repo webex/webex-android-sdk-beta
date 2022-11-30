@@ -1,4 +1,4 @@
-# Android | Meeting SDK
+# Android Meeting SDK
 AAR dependency can be downloaded from "Release tags" in right pane OR from [here](https://github.com/webex/webex-android-sdk-beta/releases/tag/calling-features-OFF)
 ## AAR Details
 
